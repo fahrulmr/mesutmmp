@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d2934840f565b4756a4abe67087b3f6f
+timeCreated: 1481481811
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PreviousPanel: {instanceID: 0}
+  - DefaultAnimator: {fileID: 9100000, guid: cda019194e4e943eeb3a9c52f713ea4a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
